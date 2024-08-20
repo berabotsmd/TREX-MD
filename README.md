@@ -135,7 +135,7 @@ HOW TO REACH THE OWNER?
 ## Contributions
 
 
-Contributions to 𝐓𝐄𝐒𝐋𝐀 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to 🅃🅁🄴🅇-🄼🄳 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## THANKS TO [GOD]
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## License
@@ -143,6 +143,6 @@ Contributions to 𝐓𝐄𝐒𝐋𝐀 are welcome! If you have ideas for new fea
 The 𝐓𝐄𝐒𝐋𝐀 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *𝐓𝐄𝐒𝐋𝐀*  to enhance your Whatsapp more enjoyable
-☣𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐓𝐄𝐒𝐋𝐀
+☣𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 🅃🅁🄴🅇-🄼🄳
 .
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
