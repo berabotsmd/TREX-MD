@@ -8,7 +8,7 @@
 <p align="center">  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝗧𝗥𝗘𝗫-𝗠𝗗" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝗧𝗥𝗘𝗫-𝗠𝗗" alt="Typing SVG"/></a>
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q">
@@ -22,7 +22,7 @@
  
 </p>
 <p align="center">
-<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254743982206"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge/berabotsmd-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254743982206"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
