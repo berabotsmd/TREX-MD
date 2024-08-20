@@ -11,8 +11,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝗧𝗥𝗘𝗫-𝗠𝗗" alt="Typing SVG" /></a>
 
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
-    <img alt="wasi" height="400" src="https://telegra.ph/file/95d912545ccc1f9022741.jpg">
+  <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q">
+    <img alt="wasi" height="400" src="https://i.ibb.co/4jBhn13/Socialthumb.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">TREX-MD</h1>
   </a>
@@ -22,7 +22,7 @@
  
 </p>
 <p align="center">
-<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254743982206"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
@@ -124,7 +124,7 @@ HOW TO REACH THE OWNER?
     <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
   </tr>
   <tr>
-    <td><a href="https://wa.me/254740007567?"><img src="https://telegra.ph/file/95d912545ccc1f9022741.jpg" width="180"</td>
+    <td><a href="https://wa.me/254740007567?"><img src="https://i.ibb.co/4jBhn13/Socialthumb.jpg" width="180"</td>
     <td><a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x"><img src="https://telegra.ph/file/926279932ae313412a5d5.jpg" width="180"</td>
   </tr>
 </table>
