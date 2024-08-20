@@ -26,7 +26,7 @@
 <p/>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-<a href="https://github.com/berabotsmd?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?label=Followers&style=social"></a>
+<a href="https://github.com/berabotsmd?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/berabotsmd?label=Followers&style=social"></a>
 <a href="https://github.com/berabotsmd/TREX-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/berabotsmd/TREX-MD?&style=social"></a>
 <a href="https://github.com/berabotsmd/TREX-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/berabotsmd/TREX-MD?style=social"></a>
 <a href="https://github.com/berabotsmd/TREX-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/berabotsmd/TREX-MD?label=Watching&style=social"></a>
@@ -125,7 +125,7 @@ HOW TO REACH THE OWNER?
   </tr>
   <tr>
     <td><a href="https://wa.me/254740007567?"><img src="https://i.ibb.co/4jBhn13/Socialthumb.jpg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x"><img src="https://telegra.ph/file/926279932ae313412a5d5.jpg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q"><img src="https://i.ibb.co/4jBhn13/Socialthumb.jpg" width="180"</td>
   </tr>
 </table>
 
@@ -142,7 +142,7 @@ Contributions to 🅃🅁🄴🅇-🄼🄳 are welcome! If you have ideas for ne
 
 The 𝐓𝐄𝐒𝐋𝐀 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *𝐓𝐄𝐒𝐋𝐀*  to enhance your Whatsapp more enjoyable
+Enjoy the diverse features of the *🅃🅁🄴🅇-🄼🄳*  to enhance your Whatsapp more enjoyable
 ☣𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 🅃🅁🄴🅇-🄼🄳
 .
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
