@@ -1,3 +1,13 @@
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ TREX-+MD-★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+BRUCE+BERA;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
+ </p>
+<p align="center">
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> <a>
+<h1 align="center">TREX-MD</center></h1>
+<p align="center">  
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐓𝐄𝐒𝐋𝐀" alt="Typing SVG" /></a>
 
@@ -5,7 +15,7 @@
   <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
     <img alt="wasi" height="400" src="https://telegra.ph/file/95d912545ccc1f9022741.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <h1 align="center">𝐓𝐄𝐒𝐋𝐀</h1>
+   <h1 align="center">TREX-MD</h1>
   </a>
     <div align="center">
   <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
@@ -13,14 +23,14 @@
  
 </p>
 <p align="center">
-<a href="https://github.com/betingrich"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/berabotsmd"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-<a href="https://github.com/betingrich?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?label=Followers&style=social"></a>
-<a href="https://github.com/betingrich/Lamborghini/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/betingrich/Lamborghini?&style=social"></a>
-<a href="https://github.com/betingrich/Lamborghini/network/members"><img title="Fork" src="https://img.shields.io/github/forks/betingrich/Lamborghini?style=social"></a>
-<a href="https://github.com/betingrich/Lamborghini/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/betingrich/Lamborghini?label=Watching&style=social"></a>
+<a href="https://github.com/berabotsmd?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?label=Followers&style=social"></a>
+<a href="https://github.com/berabotsmd/TREX-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/berabotsmd/TREX-MD?&style=social"></a>
+<a href="https://github.com/berabotsmd/TREX-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/berabotsmd/TREX-MD?style=social"></a>
+<a href="https://github.com/berabotsmd/TREX-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/berabotsmd/TREX-MD?label=Watching&style=social"></a>
 </p>></a>                     
 
    <h1 align="center"                  
@@ -42,7 +52,7 @@
 
 </p>
 
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/betingrich/Tesla&template=https://github.com/betingrich/Tesla"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/berabotsmd/TREX-MD &template=https://github.com/berabotsmd/TREX-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
 
 
 
@@ -62,7 +72,7 @@
 
 </p>
 
-- <a href="https://github.com/betingrich/Lamborghini"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/berabotsmd/TREX-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -81,7 +91,7 @@
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me/254740007567">
+   <a href="https://wa.me/254743982206">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
@@ -93,7 +103,7 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/betingrich/Lamborghini/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/berabotsmd/TREX-MD/fork)
 
 2, TAP ON GET SESSIONS
 
@@ -111,7 +121,7 @@ HOW TO REACH THE OWNER?
 
 <table>
   <tr>
-    <td>𝑴𝒂𝒓𝒊𝒔𝒆𝒍</td>
+    <td>🄱🄴🅁🄰</td>
     <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
   </tr>
   <tr>
