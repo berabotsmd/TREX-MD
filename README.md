@@ -140,7 +140,7 @@ Contributions to 🅃🅁🄴🅇-🄼🄳 are welcome! If you have ideas for ne
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## License
 
-The 𝐓𝐄𝐒𝐋𝐀 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The 🅃🅁🄴🅇-🄼🄳 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *🅃🅁🄴🅇-🄼🄳*  to enhance your Whatsapp more enjoyable
 ☣𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 🅃🅁🄴🅇-🄼🄳
