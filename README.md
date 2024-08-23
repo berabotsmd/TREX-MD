@@ -71,6 +71,11 @@
 </p>
 
 - <a href="https://github.com/berabotsmd/TREX-MD"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
+### DEPLOY ON REPLIT
+1. Deploy.
+    <br>
+    <a href='https://replit.com/github/berabotsmd/TREX-MD' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
