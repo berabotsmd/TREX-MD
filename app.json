@@ -2,8 +2,8 @@
   "name":"🅃🅁🄴🅇 🄼🄳",
   "description":"𝗧",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/a91c4a30b317305eaf34a.jpg",
-  "repository":"https://github.com/betingrich/Tesla",
+  "logo":"https://telegra.ph/file/e883c3cc22b0ded5e380e.jpg",
+  "repository":"https://github.com/berabotsmd/TREX-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,15 +35,15 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗧𝗿𝗲𝘅",
+      "value":"TREX-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/3c3b589d26e25ae7ba2c8.jpg,https://telegra.ph/file/a91c4a30b317305eaf34a.jpg,https://telegra.ph/file/4b41a0e0cbff3f85c4a3a.jpg,https://telegra.ph/file/db890d1a98e3ab7ef631a.jpg,https://telegra.ph/file/313bd970c3b20f74ab420.jpg",
-      "required":false
+      "value":"https://telegra.ph/file/e883c3cc22b0ded5e380e.jpg,https://telegra.ph/file/eca1a1dffe21dba0bc7bc.jpg,https://telegra.ph/file/5d3631dccfd838f49a9a8.jpg,https://telegra.ph/file/23df275c8026b7a1f1746.jpg"
+	"required": false
        
      },
     "PUBLIC_MODE":
