@@ -28,7 +28,7 @@ zokou({ nomCom: 'uptime',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_Tesla has been up for: ${runtime(process.uptime())}_*`) 
+                 await repondre(`*_Trex has been up for: ${runtime(process.uptime())}_*`) 
 
    
 
