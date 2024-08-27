@@ -35,8 +35,8 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*🄷🄴🄻🄻🄾 🅃🄷🄴🅁🄴 ?* 
-*🅂🅄🄿🄿🄾🅁🅃 🅄🅂 🄱🅈*
+*Hello There?* 
+*Support my work below*
 *Whatsapp channel*
 > https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
 
@@ -45,7 +45,7 @@ const date = moment().format('DD/MM/YYYY');
 
 *For more info*
 > https://github.com/betingrich
-> https://github.com/
+> https://github.com/berabotsmd
   `;
     
 let menuMsg = `
