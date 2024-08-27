@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "📑", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://api.github.com/repos/berabotsmd/TREX-MD';
-  const img = 'https://telegra.ph/file/db890d1a98e3ab7ef631a.jpg';
+  const img = 'https://telegra.ph/file/e883c3cc22b0ded5e380e.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "📑", nomFichier: __
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*𝗛𝗶, 𝗜 𝗮𝗺* *𝗧𝗿𝗲𝘅-𝗠𝗱*\n  
-🐕‍🦺 *𝗣𝗮𝗶𝗿 𝗰𝗼𝗱𝗲* https://getsession-9a04ec726730.herokuapp.com/pair
+🐕‍🦺 *𝗣𝗮𝗶𝗿 𝗰𝗼𝗱𝗲* https://web-vvvf.onrender.com/
 🐕‍🦺 *𝗥𝗲𝗽𝗼:* ${data.html_url}
 🐕‍🦺 *𝗦𝘁𝗮𝗿𝘀:* ${repoInfo.stars}
 🐕‍🦺 *𝗙𝗼𝗿𝗸𝘀:* ${repoInfo.forks}
