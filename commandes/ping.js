@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "ping", reaction: "🚔", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '🅃🅁🄴🅇-🄼🄳 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗲 𝗮𝗽𝗲𝗲𝗱 𝗶𝘀';
+    let z = '𝗠𝘆 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗲 𝗮𝗽𝗲𝗲𝗱 𝗶𝘀';
     let d = '𝟖𝟎.𝟗𝟏𝐌/𝐬';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/4b41a0e0cbff3f85c4a3a.jpg';
