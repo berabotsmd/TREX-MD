@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"TREX-MD",
+      "value":"TREX",
       "required":false
 
     } ,
