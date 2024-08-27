@@ -1,8 +1,8 @@
 {
-  "name":"🅃🅁🄴🅇 🄼🄳",
-  "description":"𝗧",
+"name":"Trex-Md",
+  "description":"𝑻𝒉𝒆 𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑩𝒐𝒕",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/e883c3cc22b0ded5e380e.jpg",
+  "logo":"https://telegra.ph/file/43a008a3fcf05cf6460f3.jpg",
   "repository":"https://github.com/berabotsmd/TREX-MD",
   "succes_url":"/",
   "stack":"container",
@@ -35,15 +35,15 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"TREX",
+      "value":"Trex",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/e883c3cc22b0ded5e380e.jpg,https://telegra.ph/file/eca1a1dffe21dba0bc7bc.jpg,https://telegra.ph/file/5d3631dccfd838f49a9a8.jpg,https://telegra.ph/file/23df275c8026b7a1f1746.jpg"
-	"required": false
+      "value":"https://telegra.ph/file/23df275c8026b7a1f1746.jpg,https://telegra.ph/file/5d3631dccfd838f49a9a8.jpg,https://telegra.ph/file/eca1a1dffe21dba0bc7bc.jpg,https://telegra.ph/file/d9dc6d4024feaf1e964ac.jpg",
+      "required":false
        
      },
     "PUBLIC_MODE":
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝗕𝗲𝗿𝗮"
+    "value": "Bera"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254743982206"
+    "value": "254 743 982206"
   },
     "WARN_COUNT":
   {
@@ -97,7 +97,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"1",
+    "value":"2",
     "required": true 
   },
   "ANTI_DELETE_MESSAGE" : {
