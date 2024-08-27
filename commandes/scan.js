@@ -42,16 +42,16 @@ https://bugatti-session.onrender.com
  
  1. Open link above
  2. Enter your whatsapp number with your country code eg : 254,255. And tap submit
- 3. 🅃🅁🄴🅇-🄼🄳 will send you a code. Copy that code. Then whatsapp will sent Notification
- 4. Tap on that notification then enter in the code that Tesla sent you.
- 5. It will load for sometime then Tesla will send A long session to your inbox on whatsapp at your own number
+ 3. Trex Md will send you a code. Copy that code. Then whatsapp will sent Notification
+ 4. Tap on that notification then enter in the code that Trex sent you.
+ 5. It will load for sometime then Trex will send A long session to your inbox on whatsapp at your own number
  6. Copy that long session and sent it to your deployer.
  
  
  `;
     
 let menuMsg = `
-> Made by : ® 🄱🄴🅁🄰™
+> Made by : ® 𝗕𝗲𝗿𝗮™
 `;
 
    var lien = mybotpic();
