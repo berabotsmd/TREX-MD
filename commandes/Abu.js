@@ -38,13 +38,12 @@ const date = moment().format('DD/MM/YYYY');
 *Hello There?* 
 *Support my work below*
 *Whatsapp channel*
-> https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
+> https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
 
 *Youtube*
 > https://www.youtube.com/wemacomic
 
 *For more info*
-> https://github.com/betingrich
 > https://github.com/berabotsmd
   `;
     
@@ -56,7 +55,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *TREX-MD*, déveloper BERA_TECH" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -66,7 +65,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *TREX-MD*, déveloper BERA_TECH " }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
