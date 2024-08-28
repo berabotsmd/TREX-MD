@@ -81,7 +81,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254 743 982206"
+    "value": "254743982206"
   },
     "WARN_COUNT":
   {
