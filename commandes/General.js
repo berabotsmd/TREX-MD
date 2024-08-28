@@ -55,8 +55,8 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💞" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "King Marisel", numero: "254740007567" },
-      { nom:"Marisel", numero: "254740007567" },
+      { nom: "BERA_TECH", numero: "254787527753" },
+      { nom:"BERA_TECH", numero: "254743982206" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
@@ -95,7 +95,7 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q`},{quoted :ms})
 
 })
 
@@ -103,8 +103,8 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "🐐" }, async (de
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "𝗠𝗮𝗿𝗶𝘀𝗲𝗹", numero: "254740007567" },
-      { nom: "𝗕𝗲𝗿𝗮", numero: "254743982206" },
+      { nom: "BERA_TECH", numero: "254787527753" },
+      { nom: "BERA_TECH", numero: "254743982206" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
