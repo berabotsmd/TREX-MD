@@ -70,7 +70,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M`) 
+                 await repondre(`https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q`) 
 
    
 
@@ -90,7 +90,7 @@ zokou({ nomCom: 'channel2',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top here to join my second channel https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x`) 
+                 await repondre(`top here to join my second channel https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q`) 
 
    
 
@@ -110,7 +110,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_joel md is running on its latest vision_*`) 
+                 await repondre(`*_TREX-MD is running on its latest vision_*`) 
 
    
 
@@ -151,7 +151,7 @@ zokou({ nomCom: 'joelgc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top a link to join joel md group https://chat.whatsapp.com/GxlcVwkXrPo2YwNoQI5TwS`) 
+                 await repondre(`top a link to join BERA_TECH group https://chat.whatsapp.com/D3iyJB5hrhF7ov7JxgW92C`) 
 
    
 
