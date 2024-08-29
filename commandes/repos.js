@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "📑", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://api.github.com/repos/berabotsmd/TREX-MD';
-  const img = 'https://telegra.ph/file/e883c3cc22b0ded5e380e.jpg';
+  const img = 'https://telegra.ph/file/facc348fe55872516168d.jpg';
 
   try {
     const response = await fetch(githubRepo);
