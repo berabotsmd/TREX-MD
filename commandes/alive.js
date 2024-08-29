@@ -73,7 +73,7 @@ else {
     } else {
         if(!superUser) { repondre("𝗧𝗥𝗘𝗫") ; return};
 
-      await   repondre("*https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x");
+      await   repondre("*https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q");
          repondre("𝗛𝗲𝗹𝗹𝗼 𝗜 𝗮𝗺 𝗧𝗿𝗲𝘅 𝗠𝗱,𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗙𝗼𝗿 𝘂𝘀𝗲..")
      }
  } else {
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x. ')
+repondre(' https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q. ')
 
 }
     });
