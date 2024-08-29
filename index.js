@@ -154,10 +154,10 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '254740007567';
-            const dj2 = '254740007567';
+            const dj = '254743982206';
+            const dj2 = '254743982206';
             const dj3 = "254740007567";
-            const luffy = '25490375710';
+            const luffy = '254787527753';
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [servBot, dj, dj2, dj3, luffy, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
@@ -217,10 +217,10 @@ setTimeout(() => {
             
             // Utiliser une boucle for...of pour parcourir les liens
 function mybotpic() {
-    // Générer un indice aléatoire entre 0 (inclus) et la longueur du tableau (exclus)
-     // Générer un indice aléatoire entre 0 (inclus) et la longueur du tableau (exclus)
+    // GÃ©nÃ©rer un indice alÃ©atoire entre 0 (inclus) et la longueur du tableau (exclus)
+     // GÃ©nÃ©rer un indice alÃ©atoire entre 0 (inclus) et la longueur du tableau (exclus)
      const indiceAleatoire = Math.floor(Math.random() * lien.length);
-     // Récupérer le lien correspondant à l'indice aléatoire
+     // RÃ©cupÃ©rer le lien correspondant Ã  l'indice alÃ©atoire
      const lienAleatoire = lien[indiceAleatoire];
      return lienAleatoire;
   }
@@ -286,7 +286,7 @@ function mybotpic() {
         
                                     if(msg === null || !msg ||msg === 'undefined') {console.log('Message non trouver') ; return } 
         
-                                await zk.sendMessage(idBot,{ image : { url : './media/deleted-message.jpg'},caption : `        BUGATTI DELETED INFORMATION\n Message from @${msg.key.participant.split('@')[0]}​` , mentions : [msg.key.participant]},)
+                                await zk.sendMessage(idBot,{ image : { url : './media/deleted-message.jpg'},caption : `        TREX-MD DELETED INFORMATION\n Message from @${msg.key.participant.split('@')[0]}â` , mentions : [msg.key.participant]},)
                                 .then( () => {
                                     zk.sendMessage(idBot,{forward : msg},{quoted : msg}) ;
                                 })
@@ -378,7 +378,7 @@ function mybotpic() {
                         let stickerMess = new Sticker(data.url, {
                             pack: conf.NOM_OWNER,
                             type: StickerTypes.FULL,
-                            categories: ["🤩", "🎉"],
+                            categories: ["ð¤©", "ð"],
                             id: "12345",
                             quality: 70,
                             background: "transparent",
@@ -413,7 +413,7 @@ function mybotpic() {
         const yes = await verifierEtatJid(origineMessage)
         if (texte.includes('https://') && verifGroupe &&  yes  ) {
 
-         console.log("lien detecté")
+         console.log("lien detectÃ©")
             var verifZokAdmin = verifGroupe ? admins.includes(idBot) : false;
             
              if(superUser || verifAdmin || !verifZokAdmin  ) { console.log('je fais rien'); return};
@@ -425,24 +425,24 @@ function mybotpic() {
                                         participant: auteurMessage
                                     };
                                     var txt = "link detected!!\n";
-                                   // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
+                                   // txt += `message supprimÃ© \n @${auteurMessage.split("@")[0]} rÃ©tirÃ© du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
                                         pack: 'Tesla',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
-                                        categories: ['🤩', '🎉'],
+                                        categories: ['ð¤©', 'ð'],
                                         id: '12345',
                                         quality: 50,
                                         background: '#000000'
                                     });
                                     await sticker.toFile("st1.webp");
-                                    // var txt = `@${auteurMsgRepondu.split("@")[0]} a été rétiré du groupe..\n`
+                                    // var txt = `@${auteurMsgRepondu.split("@")[0]} a Ã©tÃ© rÃ©tirÃ© du groupe..\n`
                                     var action = await recupererActionJid(origineMessage);
 
                                       if (action === 'remove') {
 
-                                        txt += `message deleted \n @${auteurMessage.split("@")[0]} removed from group by Marisel.`;
+                                        txt += `message deleted \n @${auteurMessage.split("@")[0]} removed from group by Bera.`;
 
                                     await zk.sendMessage(origineMessage, { sticker: fs.readFileSync("st1.webp") });
                                     (0, baileys_1.delay)(800);
@@ -523,19 +523,19 @@ function mybotpic() {
                 participant: auteurMessage
             };
             var txt = "bot detected, \n";
-           // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
+           // txt += `message supprimÃ© \n @${auteurMessage.split("@")[0]} rÃ©tirÃ© du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: '𝐓𝐞𝐬𝐥𝐚',
+                pack: 'ððð¬ð¥ð',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
-                categories: ['🤩', '🎉'],
+                categories: ['ð¤©', 'ð'],
                 id: '12345',
                 quality: 50,
                 background: '#000000'
             });
             await sticker.toFile("st1.webp");
-            // var txt = `@${auteurMsgRepondu.split("@")[0]} a été rétiré du groupe..\n`
+            // var txt = `@${auteurMsgRepondu.split("@")[0]} a Ã©tÃ© rÃ©tirÃ© du groupe..\n`
             var action = await atbrecupererActionJid(origineMessage);
 
               if (action === 'remove') {
@@ -610,7 +610,7 @@ function mybotpic() {
                          /******************* PM_PERMT***************/
 
             if (!superUser && origineMessage === auteurMessage&& conf.PM_PERMIT === "yes" ) {
-                repondre("ERROR!! ❌\n\nYou don't have acces to commands here") ; return }
+                repondre("ERROR!! â\n\nYou don't have acces to commands here") ; return }
             ///////////////////////////////
 
              
@@ -644,14 +644,14 @@ function mybotpic() {
                         cd.fonction(origineMessage, zk, commandeOptions);
                     }
                     catch (e) {
-                        console.log("😡😡 " + e);
-                        zk.sendMessage(origineMessage, { text: "😡😡 " + e }, { quoted: ms });
+                        console.log("ð¡ð¡ " + e);
+                        zk.sendMessage(origineMessage, { text: "ð¡ð¡ " + e }, { quoted: ms });
                     }
                 }
             }
-            //fin exécution commandes
+            //fin exÃ©cution commandes
         });
-        //fin événement message
+        //fin Ã©vÃ©nement message
 
 /******** evenement groupe update ****************/
 const { recupevents } = require('./bdd/welcome'); 
@@ -663,28 +663,28 @@ zk.ev.on('group-participants.update', async (group) => {
     try {
         ppgroup = await zk.profilePictureUrl(group.id, 'image');
     } catch {
-        ppgroup = 'https://telegra.ph/file/4b41a0e0cbff3f85c4a3a.jpg';
+        ppgroup = 'https://telegra.ph/file/5d3631dccfd838f49a9a8.jpg';
     }
 
     try {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `╔════◇◇◇═════╗
-�? welcome to new(s) member(s)
-�? *New(s) Member(s) :*
+            let msg = `ââââââââââââââ
+â? welcome to new(s) member(s)
+â? *New(s) Member(s) :*
 `;
 
             let membres = group.participants;
             for (let membre of membres) {
-                msg += `�? @${membre.split("@")[0]}\n`;
+                msg += `â? @${membre.split("@")[0]}\n`;
             }
 
-            msg += `�?
-╚════◇◇◇═════╝
-�? *Descriptioon*   �?
+            msg += `â?
+ââââââââââââââ
+â? *Descriptioon*   â?
 
-${metadata.desc}\n\n> 𝐓𝐞𝐬𝐥𝐚 𝐁𝐲 𝐌𝐚𝐫𝐢𝐬𝐞𝐥.`;
+${metadata.desc}\n\n> ððð¬ð¥ð ðð² ððð«ð¢ð¬ðð¥.`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -785,14 +785,14 @@ ${metadata.desc}\n\n> 𝐓𝐞𝐬𝐥𝐚 𝐁𝐲 𝐌𝐚𝐫𝐢𝐬𝐞𝐥
         
             }
           } else {
-            console.log('Les crons n\'ont pas été activés');
+            console.log('Les crons n\'ont pas Ã©tÃ© activÃ©s');
           }
 
           return
         }
 
         
-        //événement contact
+        //Ã©vÃ©nement contact
         zk.ev.on("contacts.upsert", async (contacts) => {
             const insertContact = (newContact) => {
                 for (const contact of newContact) {
@@ -807,33 +807,33 @@ ${metadata.desc}\n\n> 𝐓𝐞𝐬𝐥𝐚 𝐁𝐲 𝐌𝐚𝐫𝐢𝐬𝐞𝐥
             };
             insertContact(contacts);
         });
-        //fin événement contact 
-        //événement connexion
+        //fin Ã©vÃ©nement contact 
+        //Ã©vÃ©nement connexion
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("Tesla is connecting in your account...");
+                console.log("TREX MD is connecting in your account...");
             }
             else if (connection === 'open') {
-                console.log("Tesla connected successfully☺️");
+                console.log("TREX-MD connected successfullyâºï¸");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("Tesla by Marisel is installing cmds😇\n\n");
+                console.log("TREX-MD by Bera is installing cmdsð\n\n");
                 //chargement des commandes 
                 console.log("chargement des commandes ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
                             require(__dirname + "/commandes/" + fichier);
-                            console.log(fichier + "Successfully installed Bugatti commands");
+                            console.log(fichier + "Successfully installed TREX-MD commands");
                         }
                         catch (e) {
-                            console.log(`${fichier} n'a pas pu être chargé pour les raisons suivantes : ${e}`);
+                            console.log(`${fichier} n'a pas pu Ãªtre chargÃ© pour les raisons suivantes : ${e}`);
                         } /* require(__dirname + "/commandes/" + fichier);
-                         console.log(fichier + " installé ✔️")*/
+                         console.log(fichier + " installÃ© âï¸")*/
                         (0, baileys_1.delay)(300);
                     }
                 });
@@ -848,21 +848,21 @@ ${metadata.desc}\n\n> 𝐓𝐞𝐬𝐥𝐚 𝐁𝐲 𝐌𝐚𝐫𝐢𝐬𝐞𝐥
                 else {
                     md = "undefined";
                 }
-                console.log("Tesla successfully connected�?");
+                console.log("TREX-MD successfully connectedâ?");
 
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `𝐓𝐞𝐬𝐥𝐚 𝐢𝐬 𝐎𝐧𝐥𝐢𝐧𝐞  ⏳\n${readmore}
+                let cmsg = `ððð¬ð¥ð ð¢ð¬ ðð§ð¥ð¢ð§ð  â³\n${readmore}
     
-    𝗣𝗿𝗲𝗳𝗶𝘅 : [ ${prefixe} ]
-    𝗠𝗼𝗱𝗲 :${md} mode
-    𝗣𝗹𝘂𝗴𝗶𝗻𝘀 : 245
-    𝗥𝗮𝗺 : 𝟴/𝟭𝟯𝟮 𝗚𝗕
-    𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝗟𝗶𝗻𝘂𝘅
-    𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : 𝐌𝐚𝐫𝐢𝐬𝐞𝐥
+    ð£ð¿ð²ð³ð¶ð : [ ${prefixe} ]
+    ð ð¼ð±ð² :${md} mode
+    ð£ð¹ðð´ð¶ð»ð : 245
+    ð¥ð®ðº : ð´/ð­ð¯ð® ðð
+    ð£ð¹ð®ðð³ð¼ð¿ðº : ðð¶ð»ðð
+    ðð¿ð²ð®ðð¼ð¿ : ððð«ð¢ð¬ðð¥
 
-> 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐃𝐞𝐩𝐥𝐨𝐲𝐢𝐧𝐠 𝐓𝐞𝐬𝐥𝐚`;
+> ðð¡ðð§ð¤ ð²ð¨ð® ðð¨ð« ððð©ð¥ð¨ð²ð¢ð§ð  ððð¬ð¥ð`;
                     
                 await zk.sendMessage( zk.user.id, { text: cmsg });
                 }
@@ -873,26 +873,26 @@ ${metadata.desc}\n\n> 𝐓𝐞𝐬𝐥𝐚 𝐁𝐲 𝐌𝐚𝐫𝐢𝐬𝐞𝐥
                     console.log('Wrong session Id format, rescan again...');
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.connectionClosed) {
-                    console.log('!!! connexion fermée, reconnexion en cours ...');
+                    console.log('!!! connexion fermÃ©e, reconnexion en cours ...');
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.connectionLost) {
-                    console.log('connection error😞 ,, Tesla trying to reconnect... ');
+                    console.log('connection errorð ,, Tesla trying to reconnect... ');
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason?.connectionReplaced) {
-                    console.log('connexion réplacée ,,, une sesssion est déjà ouverte veuillez la fermer svp !!!');
+                    console.log('connexion rÃ©placÃ©e ,,, une sesssion est dÃ©jÃ  ouverte veuillez la fermer svp !!!');
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.loggedOut) {
                     console.log('session disconnected,,, replace a new session id');
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.restartRequired) {
-                    console.log('redémarrage en cours ▶️');
+                    console.log('redÃ©marrage en cours â¶ï¸');
                     main();
                 }   else {
 
                     console.log('redemarrage sur le coup de l\'erreur  ',raisonDeconnexion) ;         
-                    //repondre("* Redémarrage du bot en cour ...*");
+                    //repondre("* RedÃ©marrage du bot en cour ...*");
 
                                 const {exec}=require("child_process") ;
 
@@ -903,10 +903,10 @@ ${metadata.desc}\n\n> 𝐓𝐞𝐬𝐥𝐚 𝐁𝐲 𝐌𝐚𝐫𝐢𝐬𝐞𝐥
                 main(); //console.log(session)
             }
         });
-        //fin événement connexion
-        //événement authentification 
+        //fin Ã©vÃ©nement connexion
+        //Ã©vÃ©nement authentification 
         zk.ev.on("creds.update", saveCreds);
-        //fin événement authentification 
+        //fin Ã©vÃ©nement authentification 
         //
         /** ************* */
         //fonctions utiles
@@ -980,7 +980,7 @@ ${metadata.desc}\n\n> 𝐓𝐞𝐬𝐥𝐚 𝐁𝐲 𝐌𝐚𝐫𝐢𝐬𝐞𝐥
     let fichier = require.resolve(__filename);
     fs.watchFile(fichier, () => {
         fs.unwatchFile(fichier);
-        console.log(`mise à jour ${__filename}`);
+        console.log(`mise Ã  jour ${__filename}`);
         delete require.cache[fichier];
         require(fichier);
     });
