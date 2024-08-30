@@ -4,7 +4,7 @@ const {
 const axios = require("axios");
 zokou({
   'nomCom': 'weather',
-  'reaction': '🤔',
+  'reaction': '🕳️',
  description: "Fetch and display weather information",
         category: "information",
         usage: "weather <city>",
@@ -28,9 +28,9 @@ zokou({
             const message = `
 🌤️ **Weather Information for ${weatherData.city}, ${weatherData.country}:**
 
-🌡️ **Temperature:** ${weatherData.temperature.celsius}°C (${weatherData.temperature.fahrenheit}°F)
-☁️ **Condition:** ${weatherData.condition.text}
-💧 **Humidity:** ${weatherData.humidity}%
+🌡️ **Temperatures:** ${weatherData.temperature.celsius}°C (${weatherData.temperature.fahrenheit}°F)
+☁️ **Conditions:** ${weatherData.condition.text}
+💧 **Humidities:** ${weatherData.humidity}%
 🌬️ **Wind:** ${weatherData.wind.speed_kph} kph (${weatherData.wind.speed_mph} mph) ${weatherData.wind.direction}
 📏 **Pressure:** ${weatherData.pressure.mb} mb (${weatherData.pressure.in} in)
 🌧️ **Precipitation:** ${weatherData.precipitation.mm} mm (${weatherData.precipitation.inches} in)
