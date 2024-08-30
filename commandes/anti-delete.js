@@ -16,18 +16,18 @@ zokou({
     const action = arg[0].toLowerCase();
     if (action === "on") {
       antiDeleteActive = true;
-      await zk.sendMessage(origineMessage, "La commande anti-delete est activée.");
+      await zk.sendMessage(origineMessage, "The command anti-delete est activée.");
       return;
     } else if (action === "off") {
       antiDeleteActive = false;
-      await zk.sendMessage(origineMessage, "La commande anti-delete est désactivée.");
+      await zk.sendMessage(origineMessage, "The command anti-delete est désactivée.");
       return;
     }
   }
 
   // Vérifier si la commande anti-delete est activée
   if (!antiDeleteActive) {
-    await zk.sendMessage(origineMessage, "La commande anti-delete est actuellement désactivée.");
+    await zk.sendMessage(origineMessage, "The command anti-delete est actuellement désactivée.");
     return;
   }
 
@@ -61,7 +61,7 @@ zokou({
       }
 
       const senderId = msg.key.participant.split('@')[0];
-      const caption = `Deleted but TREX-MD 𝑪𝒂𝒏 𝒔𝒆𝒆\nMessage de @${senderId}`;
+      const caption = `Deleted but Tesla 𝑪𝒂𝒏 𝒔𝒆𝒆\nMessage de @${senderId}`;
       const imageCaption = { image: { url: './media/deleted-message.jpg' }, caption, mentions: [msg.key.participant] };
 
       await zk.sendMessage(idBot, imageCaption);
