@@ -1,5 +1,5 @@
 {
-  "name": "mod-beltah",
+  "name": "tesla",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "mod-beltah",
+    "tesla",
     "whatsapp",
     "whatsapp-bot",
     "tesla"
   ],
-  "author": "Beltah",
+  "author": "Marisel",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
