@@ -56,7 +56,7 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💞" }, async (dest, zk
 
     const devs = [
       { nom: "BERA_TECH", numero: "254787527753" },
-      { nom:"BERA_TECH", numero: "254743982206" },
+      { nom:"BERA_TECH", numero: "254740007567" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
@@ -104,7 +104,7 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "🐐" }, async (de
 
     const devs = [
       { nom: "BERA_TECH", numero: "254787527753" },
-      { nom: "BERA_TECH", numero: "254743982206" },
+      { nom: "BERA_TECH", numero: "254740007567" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
