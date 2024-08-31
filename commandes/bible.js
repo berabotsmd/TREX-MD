@@ -1,52 +1,27 @@
-import fetch from 'node-fetch';
-import { translate } from '@vitalets/google-translate-api';
+const {zokou} =require("../framework/zokou");
 
-const BASE_URL = 'https://bible-api.com';
-
-let bibleChapterHandler = async (m, { conn }) => {
-  try {
-    // Extract the chapter number or name from the command text.
-    let chapterInput = m.text.split(' ').slice(1).join('').trim();
-
-    if (!chapterInput) {
-      throw new Error(`Please specify the chapter number or name. Example: -bible john 3:16`);
-    }
-
-    // Encode the chapterInput to handle special characters
-    chapterInput = encodeURIComponent(chapterInput);
-
-    // Make an API request to fetch the chapter information.
-    let chapterRes = await fetch(`${BASE_URL}/${chapterInput}`);
+king({ nomCom: "bible",
+        reaction: "🎎",
+        categorie: "General" }, async (dest, zk, commandeOptions) => {
     
-    if (!chapterRes.ok) {
-      throw new Error(`Please specify the chapter number or name. Example: -bible john 3:16`);
-    }
+    const { repondre, arg, ms } = commandeOptions; 
 
-    let chapterData = await chapterRes.json();
+const verse = arg.join(' ');
 
-    let translatedChapterHindi = await translate(chapterData.text, { to: 'hi', autoCorrect: true });
+if (!verse) return repondre(`Please specify the book, the chapter and the verse you want to read. Example: bible john 3:16`);
 
-    let translatedChapterEnglish = await translate(chapterData.text, { to: 'en', autoCorrect: true });
+let VerseRes = await fetch(`https://bible-api.com/${verse}`);
 
-    let bibleChapter = `
-📖 *The Holy Bible*\n
-📜 *Chapter ${chapterData.reference}*\n
-Type: ${chapterData.translation_name}\n
-Number of verses: ${chapterData.verses.length}\n
-🔮 *Chapter Content (English):*\n
-${translatedChapterEnglish.text}\n
-🔮 *Chapter Content (Hindi):*\n
-${translatedChapterHindi.text}`;
+if (!VerseRes.ok) return repondre(`Please specify the chapter number or name. Example: bible john 3:16`);
 
-    m.reply(bibleChapter);
-  } catch (error) {
-    console.error(error);
-    m.reply(`Error: ${error.message}`);
-  }
-};
+let verseData = await VerseRes.json();
 
-bibleChapterHandler.help = ['bible [chapter_number|chapter_name]'];
-bibleChapterHandler.tags = ['general'];
-bibleChapterHandler.command = ['bible', 'chapter'];
+let bibleChapter = `📖 *THE HOLY BIBLE*\n
+📜 *_Book:_* ${verseData.reference}\n
+🔢 *_Verses:_* ${verseData.verses.length}\n
+🤍 *_Content:_* ${verseData.text}\n
+🌍 *_Language_:* ${verseData.translation_name}\n\n`
 
-export default bibleChapterHandler;
+await repondre(bibleChapter);
+
+});
