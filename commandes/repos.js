@@ -25,9 +25,9 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "📑", nomFichier: __
 ╭⊱✫🔮𝐓𝐑𝐄𝐗-𝐌𝐃🔮✫⊱╮
 │✫ - *📂Repository Name:* ${data.html_url}
 │✫ - *📃 Release date:* ${repoInfo.lastUpdate}
-│✫ - *🛡️Owner:*BRUCE BERA
-│✫ - *⭐Stars:* ${repoInfo.stars}
-│✫ - *💌Forks:* ${repoInfo.forks}
+│✫ - *🛡️Owner:BRUCE BERA
+│✫ - *⭐Stars: ${repoInfo.stars}
+│✫ - *💌Forks: ${repoInfo.forks}
 │✫ - *🌐Pair code:*https://web-vvvf.onrender.com/}
 ╰━━━━━━━━━━━━━━━━━╯
 
