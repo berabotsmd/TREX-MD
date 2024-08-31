@@ -21,16 +21,18 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "📑", nomFichier: __
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `*𝗛𝗶, 𝗜 𝗮𝗺* *𝗧𝗿𝗲𝘅-𝗠𝗱*\n  
-🐕‍🦺 *𝗣𝗮𝗶𝗿 𝗰𝗼𝗱𝗲* https://web-vvvf.onrender.com/
-🐕‍🦺 *𝗥𝗲𝗽𝗼:* ${data.html_url}
-🐕‍🦺 *𝗦𝘁𝗮𝗿𝘀:* ${repoInfo.stars}
-🐕‍🦺 *𝗙𝗼𝗿𝗸𝘀:* ${repoInfo.forks}
-🐕‍🦺 *𝗥𝗲𝗹𝗲𝗮𝘀𝗲 𝗗𝗮𝘁𝗲:* ${releaseDate}
-🐕‍🦺 *𝗨𝗽𝗱𝗮𝘁𝗲𝗱 𝗼𝗻:* ${repoInfo.lastUpdate}
-🐕‍🦺 *𝗢𝘄𝗻𝗲𝗿:* *𝗕𝗲𝗿𝗮*
+      const gitdata = `*𝐡𝐞𝐲 𝐬𝐬𝐮𝐩 𝐮𝐬𝐞𝐫 👋, 𝗜 𝗮𝗺* *𝗧𝗿𝗲𝘅-𝗠𝗱*\n 
+╭⊱✫🔮𝐓𝐑𝐄𝐗-𝐌𝐃🔮✫⊱╮
+│✫ - *📂Repository Name:* ${data.html_url}
+│✫ - *📃 Release date:* ${repoInfo.lastUpdate}
+│✫ - *🛡️Owner:*BRUCE BERA
+│✫ - *⭐Stars:* ${repoInfo.stars}
+│✫ - *💌Forks:* ${repoInfo.forks}
+│✫ - *🌐Pair code:* ${https://web-vvvf.onrender.com/}
+╰━━━━━━━━━━━━━━━━━╯
+
 __________________________________
-            *𝗧𝗿𝗲𝘅-𝗠𝗱*`;
+            *𝐓𝐑𝐄𝐗-𝐌𝐃*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
