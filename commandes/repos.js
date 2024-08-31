@@ -28,7 +28,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "📑", nomFichier: __
 │✫ - *🛡️Owner:*BRUCE BERA
 │✫ - *⭐Stars:* ${repoInfo.stars}
 │✫ - *💌Forks:* ${repoInfo.forks}
-│✫ - *🌐Pair code:* ${https://web-vvvf.onrender.com/}
+│✫ - *🌐Pair code:*https://web-vvvf.onrender.com/}
 ╰━━━━━━━━━━━━━━━━━╯
 
 __________________________________
