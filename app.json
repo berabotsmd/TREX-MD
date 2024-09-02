@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Trex",
+      "value":"TREX-MD",
       "required":false
 
     } ,
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Bera"
+    "value": "BERA"
   },
     "NUMERO_OWNER":
   {
