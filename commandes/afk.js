@@ -71,7 +71,7 @@ zokou({
   }
 });
 zokou({
-  'nomCom': "chat",
+  'nomCom': "Alpha",
   'reaction': '🤔',
   'categorie': 'IA'
 }, async (_0x37d1f7, _0x540e95, _0x5569d2) => {
@@ -127,7 +127,7 @@ zokou({
       'image': {
         'url': _0x1ea759
       },
-      'caption': "*powered by HACKING-MD*"
+      'caption': "*powered by TREX-MD*"
     }, {
       'quoted': _0xe583f3
     });
