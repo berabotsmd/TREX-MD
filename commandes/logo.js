@@ -266,7 +266,7 @@ var {ms,repondre,arg,prefixe}=commandeOptions;
     var lien ="https://en.ephoto360.com/create-water-effect-text-online-295.html";
     var img =await mumaker.ephoto(lien,arg);
     repondre(" processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:"  *Logo by joel*"})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:"  *Logo by Trex-md*"})
   }catch(e){repondre(`🥵🥵 ${e}`)}
 
 });
@@ -438,7 +438,7 @@ zokou({nomCom:"purple",categorie:"Logo",reaction:"🧳"},async(dest,zk,commandeO
       const lien="https://en.ephoto360.com/purple-text-effect-online-100.html"
       var img = await mumaker.ephoto(lien,arg);
       repondre(" processing ...")
-      await zk.sendMessage(dest,{image:{url:img.image},caption:"      *𝐋𝐨𝐠𝐨 𝐁𝐲 𝐓𝐞𝐬𝐥𝐚*"});
+      await zk.sendMessage(dest,{image:{url:img.image},caption:"      *𝐋𝐨𝐠𝐨 𝐁𝐲 TREX-MD*"});
     }catch(e){repondre(e)}
   
 })
@@ -510,7 +510,7 @@ zokou({ nomCom: "gif×1", categorie: "Logo", reaction: "😋" }, async (dest, zk
     const lien = `https://api.caliph.biz.id/api/kaneki?nama=${encodeURIComponent(text)}&apikey=caliphkey`;
     const img = await mumaker.sendFile(m.chat, lien, 'logo.png', '✅ Result', m);
     repondre("Processing...");
-    await zk.sendMessage(dest, { image: { url: img }, caption: "*Logo by joel md*" }, { quoted: ms });
+    await zk.sendMessage(dest, { image: { url: img }, caption: "*Logo by TREX-MD *" }, { quoted: ms });
   } catch (e) {
     repondre(e);
   }
