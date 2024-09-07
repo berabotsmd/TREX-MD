@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "📑", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/betingrich/Tesla';
-  const img = 'https://telegra.ph/file/9b66f8e35077253166e78.jpg';
+  const githubRepo = 'https://api.github.com/repos/berabotsmd/TREX-MD';
+  const img = 'https://telegra.ph/file/facc348fe55872516168d.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -21,16 +21,18 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "📑", nomFichier: __
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `*𝗛𝗶, 𝗜 𝗮𝗺* *𝐓𝐑𝐄𝐗 𝐌𝐃.*\n  
-🏎️ *𝗣𝗮𝗶𝗿 𝗰𝗼𝗱* https://bugatti-session.onrender.com
-🏎️ *𝗥𝗲𝗽𝗼:* ${data.html_url}
-🏎️ *𝗦𝘁𝗮𝗿𝘀:* ${repoInfo.stars}
-🏎️ *𝗙𝗼𝗿𝗸𝘀:* ${repoInfo.forks}
-🏎️ *𝗥𝗲𝗹𝗲𝗮𝘀𝗲 𝗗𝗮𝘁𝗲:* ${releaseDate}
-🏎️ *𝗨𝗽𝗱𝗮𝘁𝗲𝗱 𝗼𝗻:* ${repoInfo.lastUpdate}
-🏎️ *𝗢𝘄𝗻𝗲𝗿:* *𝐁𝐄𝐑𝐀*
+         const gitdata = `*𝐡𝐞𝐲 𝐬𝐬𝐮𝐩 𝐮𝐬𝐞𝐫 👋, 𝗜 𝗮𝗺* *𝗧𝗿𝗲𝘅-𝗠𝗱*\n 
+╭⊱✫🔮𝐓𝐑𝐄𝐗-𝐌𝐃🔮✫⊱╮
+│✫ - *📂Repository Name:* ${data.html_url}
+│✫ - *📃 Release date:* ${repoInfo.lastUpdate}
+│✫ - *🛡️Owner:BRUCE BERA
+│✫ - *⭐Stars: ${repoInfo.stars}
+│✫ - *💌Forks: ${repoInfo.forks}
+│✫ - *🌐Pair code:*https://web-vvvf.onrender.com/}
+╰━━━━━━━━━━━━━━━━━╯
+
 __________________________________
-            *𝐓𝐑𝐄𝐗 𝐌𝐃*`;
+            *𝐓𝐑𝐄𝐗-𝐌𝐃*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
