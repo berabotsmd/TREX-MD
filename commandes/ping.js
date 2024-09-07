@@ -3,10 +3,10 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "ping", reaction: "🚔", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = ' 𝐓𝐑𝐄𝐗 𝐌𝐃 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗲 𝐓𝐑𝐄𝐗 𝐌𝐃 𝐬𝗽𝗲𝗲𝗱 𝗶𝘀';
+    let z = ' 𝐓𝐑𝐄𝐗 𝐌𝐃 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗲 𝐬𝗽𝗲𝗲𝗱 𝗶𝘀';
     let d = '𝟖𝟎.𝟗𝟏𝐌/𝐬';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/0b5cf2584cd4943ed008f.jpg';
+    var img = 'https://telegra.ph/file/a79576b559d94fa8de9d8.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
