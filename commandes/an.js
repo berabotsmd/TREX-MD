@@ -131,9 +131,9 @@ adams({
     const response = await axios.get(`http://www.omdbapi.com/?apikey=742b2d09&t=${arg}&plot=full`);
     const imdbData = response.data;
 
-    let imdbInfo = "Tap on the link to join movie channel on telegram and download movies there : https://t.me/ibrahimtechai\n";
-    imdbInfo += " ``` BUGATTI FILMS```\n";
-    imdbInfo += "*Made by Ibrahim Adams*\n";
+    let imdbInfo = "Tap on the link to join movie channel on telegram and download movies there : https://t.me/Alphatrex\n";
+    imdbInfo += " ``` TREX-MD FILMS```\n";
+    imdbInfo += "*Made by Bera_tech*\n";
     imdbInfo += "🎬Title    : " + imdbData.Title + "\n";
     imdbInfo += "📅year      : " + imdbData.Year + "\n";
     imdbInfo += "⭐Assessment : " + imdbData.Rated + "\n";
