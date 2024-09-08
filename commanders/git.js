@@ -46,7 +46,7 @@ const date = moment().format('DD/MM/YYYY');
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
 > https://wa.me/254740007567?text=Hi+Marisel+I+Need+Help
->
+>https://wa.me/254743982206?text=Hi+Bruce+I+Need+Help
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠ *DEV* : *𝐁𝐞𝐫𝐚*
