@@ -1,5 +1,5 @@
 {
-  "name":"𝑩𝒖𝒈𝒂𝒕𝒕𝒊",
+  "name":"𝐓𝐑𝐄𝐗 𝐌𝐃 ",
   "description":"𝑻𝒉𝒆 𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑩𝒐𝒕",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/43a008a3fcf05cf6460f3.jpg",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐁𝐔𝐆𝐀𝐓𝐓𝐈",
+      "value":"𝐓𝐑𝐄𝐗 𝐌𝐃 ",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐊𝐢𝐧𝐠 𝐌𝐚𝐫𝐢𝐬𝐞𝐥"
+    "value": "𝐁𝐄𝐑𝐀"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254740007567"
+    "value": "254743982206"
   },
     "WARN_COUNT":
   {
