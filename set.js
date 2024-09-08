@@ -9,13 +9,13 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
     : process.env.DATABASE_URL;
 module.exports = { session: process.env.SESSION_ID || 'zokk',
     PREFIXE: process.env.PREFIX || ".",
-    OWNER_NAME: process.env.OWNER_NAME || "Marisel",
+    OWNER_NAME: process.env.OWNER_NAME || "𝐁𝐄𝐑𝐀",
     NUMERO_OWNER : process.env.NUMERO_OWNER || "254740007567",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
-    BOT : process.env.BOT_NAME || '𝐁𝐔𝐆𝐀𝐓𝐓𝐈',
+    BOT : process.env.BOT_NAME || '𝐓𝐑𝐄𝐗 𝐌𝐃',
     URL : process.env.BOT_MENU_LINKS || 'https://telegra.ph/file/0418ae5a1e6440e54652c.jpg,https://telegra.ph/file/c425b0fd9ec4ab130c8f9.jpg.https://telegra.ph/file/0d3b89f01e8fccb260b45.jpg.https://telegra.ph/file/abc304e66c2a3e8b2a557.jpg',
-    MODE: process.env.PUBLIC_MODE || "no",
+    MODE: process.env.PUBLIC_MODE || "yes",
                   
     PM_PERMIT: process.env.PM_PERMIT || 'no',
     HEROKU_APP_NAME : process.env.HEROKU_APP_NAME,
