@@ -41,7 +41,7 @@
 
 </p>
 
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/betingrich/Bugatti&template=https://github.com/betingrich/Bugatti"><img title="Deploy On Heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=bugatti" width="220" height="38.45"/></a></p>
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/berabotsmd/TREX-MD&template=https://github.com/berabotsms/TREX-MD"><img title="Deploy On Heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=bugatti" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
