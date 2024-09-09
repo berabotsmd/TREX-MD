@@ -15,10 +15,10 @@ zokou({nomCom : "igdl" , categorie : "Download"},async (dest , zk , commandeOpti
     let igvid = await axios('https://api.vihangayt.com/downloader/ig?url='+link)
 
     if (igvid.data.data.data[0].type == 'video') {
-    zk.sendMessage(dest,{video : {url : igvid.data.data.data[0].url},caption : "ig video downloader 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 *𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳*",gifPlayback : false },{quoted : ms}) 
+    zk.sendMessage(dest,{video : {url : igvid.data.data.data[0].url},caption : "ig video downloader 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 *BERA_TECH*",gifPlayback : false },{quoted : ms}) 
     }
     else {
-        zk.sendMessage(dest,{image : {url : igvid.data.data.data[0].url},caption : "ig image downloader 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 *𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳*"})
+        zk.sendMessage(dest,{image : {url : igvid.data.data.data[0].url},caption : "ig image downloader 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 *BERA_TECH*"})
     }
   
   } catch (e) {repondre("erreur survenue lors du téléchargement \n " + e)}
@@ -49,7 +49,7 @@ async (dest, zk, commandeOptions) => {
         Lien: ${result.url}
       `;
        zk.sendMessage(dest,{image : { url : result.thumbnail}, caption : caption},{quoted : ms}) ;
-       zk.sendMessage(dest, { video: { url: result.hd  }, caption: 'facebook video downloader 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 *𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳*' }, { quoted: ms });
+       zk.sendMessage(dest, { video: { url: result.hd  }, caption: 'facebook video downloader 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 *BERA_TECH*' }, { quoted: ms });
       
     })
     .catch((error) => {console.log("Error:", error)
@@ -113,7 +113,7 @@ async (dest, zk, commandeOptions) => {
         Lien: ${result.url}
       `;
        zk.sendMessage(dest,{image : { url : result.thumbnail}, caption : caption},{quoted : ms}) ;
-       zk.sendMessage(dest, { video: { url: result.sd  }, caption: 'facebook video downloader 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 *𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳*' }, { quoted: ms });
+       zk.sendMessage(dest, { video: { url: result.sd  }, caption: 'facebook video downloader 𝒑𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 *BERA_TECH*' }, { quoted: ms });
       
     })
     .catch((error) => {console.log("Error:", error)
