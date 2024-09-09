@@ -4,7 +4,7 @@ zokou({ nomCom: "𝑩𝒖𝒈𝒂𝒕𝒕𝒊",
     categorie: "Logo", reaction: "📎" }, async (origineMessage, zk, commandeOptions) => {
     const { prefixe, arg, ms, repondre } = commandeOptions;
     if (!arg || arg == "") {
-        repondre("*__Exemple : * " + prefixe + "𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍");
+        repondre("*__Exemple : * " + prefixe + "BERA_TECH");
         return;
     }
     try {
@@ -438,7 +438,7 @@ zokou({nomCom:"purple",categorie:"Logo",reaction:"🧳"},async(dest,zk,commandeO
       const lien="https://en.ephoto360.com/purple-text-effect-online-100.html"
       var img = await mumaker.ephoto(lien,arg);
       repondre(" processing ...")
-      await zk.sendMessage(dest,{image:{url:img.image},caption:"      *𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐁𝐮𝐠𝐚𝐭𝐭𝐢*"});
+      await zk.sendMessage(dest,{image:{url:img.image},caption:"      *𝐏𝐨𝐰𝐞𝐫𝐝 𝐛𝐲 𝐓𝐑𝐄𝐗 𝐌𝐃 *"});
     }catch(e){repondre(e)}
   
 })
