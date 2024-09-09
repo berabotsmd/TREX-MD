@@ -7,7 +7,7 @@ let antiDeleteActive = false; // Variable pour stocker l'état de la commande an
 zokou({
   nomCom: "antidelete",
   categorie: "General",
-  reaction: "🍑"
+  reaction: "😂"
 }, async (origineMessage, zk, commandeOptions) => {
   const { ms, arg } = commandeOptions;
 
@@ -61,7 +61,7 @@ zokou({
       }
 
       const senderId = msg.key.participant.split('@')[0];
-      const caption = `𝑫𝒆𝒍𝒆𝒕𝒆𝒅 𝑩𝒖𝒕 𝑩𝒖𝒈𝒂𝒕𝒕𝒊 𝑪𝒂𝒏 𝒔𝒆𝒆\nMessage de @${senderId}`;
+      const caption = `𝑫𝒆𝒍𝒆𝒕𝒆𝒅 𝑩𝒖𝒕 𝐓𝐫𝐞𝐱 𝐌𝐝 𝑪𝒂𝒏 𝒔𝒆𝒆\nMessage de @${senderId}`;
       const imageCaption = { image: { url: './media/deleted-message.jpg' }, caption, mentions: [msg.key.participant] };
 
       await zk.sendMessage(idBot, imageCaption);
