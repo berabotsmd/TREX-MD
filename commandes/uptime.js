@@ -28,7 +28,7 @@ zokou({ nomCom: 'uptime',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_uptime of  Bugatti is: ${runtime(process.uptime())}_*`) 
+                 await repondre(`*_TREX-MD UPTIME  IS: ${runtime(process.uptime())}_*`) 
 
    
 
