@@ -13,14 +13,14 @@ zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) =
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   𝑩𝑼𝑮𝑨𝑻𝑻𝑰                    ║
+║   𝐓𝐑𝐄𝐗 𝐌𝐃                    ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝑩𝒖𝒈𝒂𝒕𝒕𝒊');
+𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝐓𝐑𝐄𝐗 𝐌𝐃');
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -33,14 +33,14 @@ zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) =
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   𝑩𝑼𝑮𝑨𝑻𝑻𝑰              ║
+║   𝐓𝐑𝐄𝐗 𝐌𝐃              ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝑩𝒖𝒈𝒂𝒕𝒕𝒊`);
+𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝐓𝐑𝐄𝐗 𝐌𝐃`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
