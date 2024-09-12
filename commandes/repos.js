@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔎", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://api.github.com/repos/berabotsmd/TREX-MD';
-  const img = 'https://telegra.ph/file/e883c3cc22b0ded5e380e.jpg';
+  const img = 'https://telegra.ph/file/b8b94202ee501c05bfef2.jpg';
 
 
   try {
@@ -33,7 +33,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔎", nomFichier: __
 ││ *𝐔𝐩𝐝𝐚𝐭𝐞𝐝: ${repoInfo.lastUpdate}
 ││ *𝐎𝐰𝐧𝐞𝐫:* BERA_TECH
 ││ *𝐂𝐡𝐚𝐧𝐧𝐞𝐥:* https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
-││ *𝐘𝐨𝐮𝐭𝐮𝐛𝐞:* https://youtube.com/@wemacomic
+││ *𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦:* https://Instagram.com/@_BERA_TECH
 ╰─────────༻༻༻────────
           *𝐓𝐫𝐞𝐱 𝐌𝐝*`;
 
