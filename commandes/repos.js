@@ -25,7 +25,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔎", nomFichier: __
       const gitdata = `*𝐇𝐞𝐲 𝐒𝐬𝐮𝐩 𝐏𝐚𝐥 🤗 𝐢𝐭𝐬 𝐬𝐞𝐞𝐦𝐬 𝐲𝐨𝐮 𝐥𝐢𝐤𝐞 𝐓𝐫𝐞𝐱-𝐌𝐝,  *\n  
       *𝐀𝐥𝐥 𝐘𝐨𝐮 𝐍𝐞𝐞𝐝 𝐓𝐨 𝐊𝐧𝐨𝐰 𝐢𝐬 𝐇𝐞𝐫𝐞.*
 ╭─────────༻༻༻────────
-││ *𝐒𝐞𝐬𝐬𝐢𝐨𝐧* https://zzni-ec6c49062fd5.herokuapp.com/
+││ *𝐒𝐞𝐬𝐬𝐢𝐨𝐧* https://trex-md-session-generator-4f0646dea31d.herokuapp.com/
 ││ *𝐑𝐞𝐩𝐨:* ${data.html_url}
 ││ *𝐒𝐭𝐚𝐫𝐬:* ${repoInfo.stars}
 ││ *𝐅𝐨𝐫𝐤𝐬:* ${repoInfo.forks}
