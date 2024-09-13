@@ -43,7 +43,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a></p>
 - <br>
-<a href='https://baraka-scanner.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://trex-md-session-generator-4f0646dea31d.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 - 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
