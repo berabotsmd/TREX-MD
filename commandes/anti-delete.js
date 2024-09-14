@@ -61,7 +61,7 @@ zokou({
       }
 
       const senderId = msg.key.participant.split('@')[0];
-      const caption = `𝑫𝒆𝒍𝒆𝒕𝒆𝒅 𝑩𝒖𝒕 𝑩𝒖𝒈𝒂𝒕𝒕𝒊 𝑪𝒂𝒏 𝒔𝒆𝒆\nMessage de @${senderId}`;
+      const caption = `𝙳𝚎𝚕𝚎𝚝𝚎𝚍 𝚋𝚞𝚝 𝚃𝚁𝙴𝚇-𝙼𝙳 𝚌𝚊𝚗 𝚜𝚎𝚎 𝚒𝚝\nMessage de @${senderId}`;
       const imageCaption = { image: { url: './media/deleted-message.jpg' }, caption, mentions: [msg.key.participant] };
 
       await zk.sendMessage(idBot, imageCaption);
