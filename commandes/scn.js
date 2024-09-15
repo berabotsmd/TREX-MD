@@ -1,1 +1,83 @@
-const _0x4bdfe8=_0x37e7;function _0x37e7(_0x4a0d30,_0x1ba1f8){const _0x239f95=_0x239f();return _0x37e7=function(_0x37e763,_0x33f306){_0x37e763=_0x37e763-0x193;let _0x53026f=_0x239f95[_0x37e763];return _0x53026f;},_0x37e7(_0x4a0d30,_0x1ba1f8);}(function(_0x26d05b,_0x3ea27b){const _0x1a1138=_0x37e7,_0x98b243=_0x26d05b();while(!![]){try{const _0x147ae2=parseInt(_0x1a1138(0x1a7))/0x1*(-parseInt(_0x1a1138(0x1ba))/0x2)+parseInt(_0x1a1138(0x1aa))/0x3*(-parseInt(_0x1a1138(0x1a5))/0x4)+parseInt(_0x1a1138(0x1b9))/0x5+parseInt(_0x1a1138(0x1b8))/0x6*(-parseInt(_0x1a1138(0x19d))/0x7)+parseInt(_0x1a1138(0x1a4))/0x8*(parseInt(_0x1a1138(0x1b3))/0x9)+-parseInt(_0x1a1138(0x1b6))/0xa+parseInt(_0x1a1138(0x1a0))/0xb;if(_0x147ae2===_0x3ea27b)break;else _0x98b243['push'](_0x98b243['shift']());}catch(_0x407aac){_0x98b243['push'](_0x98b243['shift']());}}}(_0x239f,0xdb897));const util=require(_0x4bdfe8(0x1bb)),fs=require(_0x4bdfe8(0x1ad)),{zokou}=require(__dirname+_0x4bdfe8(0x19c)),{format}=require(__dirname+_0x4bdfe8(0x1b1)),os=require('os'),moment=require(_0x4bdfe8(0x19b)),s=require(__dirname+_0x4bdfe8(0x1a1)),more=String[_0x4bdfe8(0x1ab)](0x200e),readmore=more[_0x4bdfe8(0x193)](0xfa1);zokou({'nomCom':_0x4bdfe8(0x19a),'categorie':_0x4bdfe8(0x194)},async(_0x1402d5,_0xa989df,_0x53c299)=>{const _0x3c7881=_0x4bdfe8;let {ms:_0x1a08b1,repondre:_0x1baf85,prefixe:_0x22a4b2,nomAuteurMessage:_0x26ebb2,mybotpic:_0x3d46ad}=_0x53c299,{cm:_0x36c835}=require(__dirname+'/../framework//zokou');var _0x37d553={},_0x29b828=_0x3c7881(0x198);s[_0x3c7881(0x1b5)][_0x3c7881(0x19f)]()!=_0x3c7881(0x1ac)&&(_0x29b828=_0x3c7881(0x1a8));_0x36c835['map'](async(_0x22bc08,_0x311734)=>{const _0x2113f4=_0x3c7881;if(!_0x37d553[_0x22bc08[_0x2113f4(0x197)]])_0x37d553[_0x22bc08[_0x2113f4(0x197)]]=[];_0x37d553[_0x22bc08[_0x2113f4(0x197)]]['push'](_0x22bc08[_0x2113f4(0x1a6)]);}),moment['tz'][_0x3c7881(0x1af)]('Etc/GMT');const _0x1b823f=moment()[_0x3c7881(0x19e)](_0x3c7881(0x1b7)),_0xb68ac7=moment()['format'](_0x3c7881(0x1ae));let _0x519b97=_0x3c7881(0x195)+_0x1a08b1[_0x3c7881(0x1a3)]+_0x3c7881(0x1a9)+s[_0x3c7881(0x1bc)]+_0x3c7881(0x199)+_0x1a08b1[_0x3c7881(0x1a3)]+'\x0a\x0a*𝚃𝙾𝚃𝙰𝙻\x20𝚄𝚂𝙴𝚁𝚂*\x20:\x20\x0a\x0a*𝙱𝙾𝚃\x20𝙳𝙴𝙾𝙻𝙾𝚈𝙴𝙳*\x20:\x20𝟷𝟹𝟿+\x20𝚊𝚙𝚙𝚜\x20𝚍𝚎𝚙𝚕𝚘𝚢𝚎𝚍\x20𝚝𝚘𝚍𝚊𝚢\x0a\x0a*𝚂𝚃𝙴𝙿𝚂\x20𝚃𝙾\x20𝙶𝙴𝚃\x20𝚂𝙴𝚂𝚂𝙸𝙾𝙽\x20𝙸𝙳*\x0a\x0a*𝟷.𝙾𝙿𝙴𝙽\x20𝙻𝙸𝙽𝙺\x20𝙱𝙴𝙻𝙾𝚆*\x0a\x0ahttps://web-vvvf.onrender.com/\x0a\x0a*𝟸.𝙴𝙽𝚃𝙴𝚁\x20𝚈𝙾𝚄𝚁\x20𝚆𝙷𝙰𝚃𝚂𝙰𝙰𝙿\x20𝙽𝚄𝙼𝙱𝙴𝚁\x20𝚆𝙸𝚃𝙷\x20𝙲𝙾𝚄𝙽𝚃𝚈\x20𝙲𝙾𝙳𝙴\x20𝙴𝚐.\x20𝟸𝟻4𝟽4000𝚡𝚡𝚡*\x0a\x0a*𝟹.𝙱𝚄𝙶𝙰𝚃𝚃𝙸\x20𝚆𝙸𝙻𝙻\x20𝚂𝙴𝙽𝙳\x20𝚈𝙾𝚄\x20𝙰\x20𝙲𝙾𝙳𝙴\x20𝙲𝙾𝙿𝚈\x20𝚃𝙷𝙰𝚃\x20𝙲𝙾𝙳𝙴,𝚃𝙷𝙴𝙽\x20𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿\x20𝚆𝙸𝙻𝙻\x20𝚂𝙴𝙽𝙳\x20𝙽𝙾𝚃𝙸𝙵𝙸𝙲𝙰𝚃𝙸𝙾𝙽.*\x0a\x0a*𝟺.𝚃𝙾𝙿\x20𝙾𝙽\x20𝚃𝙷𝙰𝚃\x20𝙽𝙾𝚃𝙸𝙵𝙸𝙲𝙰𝚃𝙸𝙾𝙽\x20𝚃𝙷𝙴𝙽\x20𝙴𝙽𝚃𝙴𝚁\x20𝚃𝙷𝙴\x20𝙲𝙾𝙳𝙴\x20𝚃𝙷𝙰𝚃\x20𝙱𝚄𝙶𝙰𝚃𝚃𝙸\x20𝚂𝙴𝙽𝚃\x20𝚈𝙾𝚄*\x0a\x0a*𝟻.𝙸𝚃\x20𝚆𝙸𝙻𝙻\x20𝙻𝙾𝙰𝙳\x20𝙵𝙾𝚁\x20𝚂𝙾𝙼𝙴𝚃𝙸𝙼𝙴\x20𝚃𝙷𝙴𝙽\x20𝙱𝚄𝙶𝙰𝚃𝚃𝙸\x20𝙾𝚁\x20𝚃𝙴𝚂𝙻𝙰\x20𝚆𝙸𝙻𝙻\x20𝚂𝙴𝙽𝙳\x20𝚈𝙾𝚄\x20𝙰\x20𝚂𝙴𝚂𝚂𝙸𝙾𝙽\x20𝙸𝙳\x20𝙸𝙽\x20𝚈𝙾𝚄𝚁\x20𝙸𝙽𝙱𝙾𝚇\x20𝙸𝙽\x20𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿\x20𝙰𝚃\x20𝚈𝙾𝚄𝚁\x20𝙾𝚆𝙽\x20𝙽𝚄𝙼𝙱𝙴𝚁*\x0a\x0a*6.𝙲𝙾𝙿𝚈\x20𝚃𝙷𝙴\x20𝚂𝙴𝚂𝚂𝙸𝙾𝙽\x20𝙸𝙳\x20𝙰𝙽𝙳\x20𝚂𝙴𝙽𝙳\x20𝚃𝙾\x20𝚈𝙾ur\x20𝙳𝙴𝙿𝙻𝙾𝚈𝙴𝚁*\x0a\x0a\x20\x20\x20\x0a\x0a\x20\x20\x20𝗡𝗼𝘁𝗲:𝗕𝗼𝘁𝘀\x20𝗮𝗿𝗲𝗻\x27𝘁\x20𝗳𝗼𝗿\x20𝗳𝗿𝗲𝗲.\x20𝗛𝗲𝗿𝗼𝗸𝘂\x20𝗶𝘀\x20𝗽𝗮𝗶𝗱\x20𝗳𝗼𝗿\x0a\x0a\x20',_0x5aa6ce='\x0a\x0a>\x20Made\x20by\x20:\x20®\x20Marisel™\x0a\x0a';var _0x3a9954=_0x3d46ad();if(_0x3a9954[_0x3c7881(0x1b0)](/\.(mp4|gif)$/i))try{_0xa989df[_0x3c7881(0x1b4)](_0x1402d5,{'video':{'url':_0x3a9954},'caption':_0x519b97+_0x5aa6ce,'footer':_0x3c7881(0x1a2),'gifPlayback':!![]},{'quoted':_0x1a08b1});}catch(_0x4117a8){console[_0x3c7881(0x1b2)](_0x3c7881(0x196)+_0x4117a8),_0x1baf85('🥵🥵\x20Menu\x20erreur\x20'+_0x4117a8);}else{if(_0x3a9954[_0x3c7881(0x1b0)](/\.(jpeg|png|jpg)$/i))try{_0xa989df['sendMessage'](_0x1402d5,{'image':{'url':_0x3a9954},'caption':_0x519b97+_0x5aa6ce,'footer':'Je\x20suis\x20*Bugatti*,\x20déveloper\x20Marisel'},{'quoted':_0x1a08b1});}catch(_0x5e6b4c){console[_0x3c7881(0x1b2)](_0x3c7881(0x196)+_0x5e6b4c),_0x1baf85('🥵🥵\x20Menu\x20erreur\x20'+_0x5e6b4c);}else _0x1baf85(_0x519b97+_0x5aa6ce);}});function _0x239f(){const _0x4c9011=['toLocaleLowerCase','38494522QKwavj','/../set','Je\x20suis\x20*Bugatti*,\x20déveloper\x20Marisel','pushName','538520TnOmzb','1597108DDszJK','nomCom','241453aSekYn','private','\x0a\x0a*𝙳𝙴𝙿𝙻𝙾𝚈\x20𝚈𝙾𝚄𝚁\x20𝙾𝚆𝙽\x20𝙱𝚄𝙶𝙰𝚃𝚃𝙸\x20𝙾𝚁\x20𝚃𝙴𝚂𝙻𝙰\x20𝙷𝙴𝚁𝙴*\x0a\x0a*𝚈𝙾𝚄𝚁\x20𝙳𝙴𝙿𝙻𝙾𝚈𝙴𝚁*\x20:\x20','3bzpGau','fromCharCode','yes','fs-extra','DD/MM/YYYY','setDefault','match','/../framework/mesfonctions','log','18Hdtmmq','sendMessage','MODE','7357160SPYVzT','HH:mm:ss','5136TPKtwR','3047710ZHThFu','4IUmTCa','util','OWNER_NAME','repeat','General','\x0a\x0a𝙷𝙴𝙻𝙻𝙾𝚆\x20:\x20','🥵🥵\x20Menu\x20erreur\x20','categorie','public','\x0a\x0a*𝚈𝙾𝚄𝚁\x20𝙽𝙰𝙼𝙴*\x20:\x20','scan','moment-timezone','/../framework/zokou','14119LsOnlE','format'];_0x239f=function(){return _0x4c9011;};return _0x239f();}
+const util = require('util');
+const fs = require('fs-extra');
+const { zokou } = require(__dirname + "/../framework/zokou");
+const { format } = require(__dirname + "/../framework/mesfonctions");
+const os = require("os");
+const moment = require("moment-timezone");
+const s = require(__dirname + "/../set");
+const more = String.fromCharCode(8206)
+const readmore = more.repeat(4001)
+
+zokou({ nomCom: "scan", categorie: "General" }, async (dest, zk, commandeOptions) => {
+    let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
+    let { cm } = require(__dirname + "/../framework//zokou");
+    var coms = {};
+    var mode = "public";
+    
+    if ((s.MODE).toLocaleLowerCase() != "yes") {
+        mode = "private";
+    }
+
+
+    
+
+    cm.map(async (com, index) => {
+        if (!coms[com.categorie])
+            coms[com.categorie] = [];
+        coms[com.categorie].push(com.nomCom);
+    });
+
+    moment.tz.setDefault("Africa/Nairobi");
+
+// Créer une date et une heure en GMT
+const temps = moment().format('HH:mm:ss');
+const date = moment().format('DD/MM/YYYY');
+
+  let infoMsg =  `
+ *THE GIVEN LINK TAKES YOU TO THE SESSION SITE*
+ 
+https://trex-md-session-generator-4f0646dea31d.herokuapp.com/ 
+
+
+ ╭───────────────────❒
+ │ TREX-MD❒⁠⁠⁠⁠
+ │ TREX-MD❒⁠⁠
+ ⁠⁠⁠⁠╰───────────────────❒
+ 
+ 
+ `;
+    
+let menuMsg = `
+> Made by : BERA_TECH
+`;
+
+   var lien ="https://files.fm/f/x2mahextbg"();
+
+   if (lien.match(/\.(mp4|gif)$/i)) {
+    try {
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *TREX-MD*, déveloper BERA_TECH" , gifPlayback : true }, { quoted: ms });
+    }
+    catch (e) {
+        console.log("🥵🥵 Menu erreur " + e);
+        repondre("🥵🥵 Menu erreur " + e);
+    }
+} 
+// Vérification pour .jpeg ou .png
+else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
+    try {
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *TREX-MD*, déveloper BERA_TECH" }, { quoted: ms });
+    }
+    catch (e) {
+        console.log("🥵🥵 Menu erreur " + e);
+        repondre("🥵🥵 Menu erreur " + e);
+    }
+} 
+else {
+    
+    repondre(infoMsg + menuMsg);
+    
+}
+
+}); 
+
+                    
