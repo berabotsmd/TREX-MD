@@ -51,7 +51,7 @@ let menuMsg = `
 > Made by : BERA_TECH
 `;
 
-   var lien ="https://files.fm/f/x2mahextbg"();
+   var lien =(mybotpic)();
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
