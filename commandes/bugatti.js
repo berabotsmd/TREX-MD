@@ -42,7 +42,7 @@ zokou({
   } = _0x20339c;
   const _0x5754a8 = await fetch("https://nekos.life/api/v2/fact");
   const _0x21e127 = await _0x5754a8.json();
-  _0x12e23a(" *BUGATTI FACT MESSAGE* \n*💠* " + _0x21e127.fact + "\n\n\n\n\n*©Ibrahim Adams*\n\n╔═════◇\n║◇ *BMW MD*\n╚════════════════════>  ");
+  _0x12e23a(" *TREX-MD FACT MESSAGE* \n*💠* " + _0x21e127.fact + "\n\n\n\n\n*©BERA_TECH*\n\n╔═════◇\n║◇ *TREX-MD*\n╚════════════════════>  ");
 });
 zokou({
   'nomCom': "quote",
@@ -56,7 +56,7 @@ zokou({
   } = _0x53dc51;
   const _0x2784cf = await fetch('https://favqs.com/api/qotd');
   const _0x1f25fb = await _0x2784cf.json();
-  const _0x2b238b = "\nBUGATTI MD QUOTE MESSAGE \n◇ _" + _0x1f25fb.quote.body + "_\n\n\n◇ *AUTHOR:* " + _0x1f25fb.quote.author + "\n\n\n\n\n◇ *©Ibrahim Adams**\n\n\n╔═════◇\n║◇ *BMW MD*\n╚════════════════════> ";
+  const _0x2b238b = "\nTREX MD QUOTE MESSAGE \n◇ _" + _0x1f25fb.quote.body + "_\n\n\n◇ *AUTHOR:* " + _0x1f25fb.quote.author + "\n\n\n\n\n◇ *©BERA TECH *\n\n\n╔═════◇\n║◇ *TREX MD*\n╚════════════════════> ";
   _0x3bef2d(_0x2b238b);
 });
 zokou({
