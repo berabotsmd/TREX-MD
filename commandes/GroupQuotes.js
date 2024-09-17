@@ -37,7 +37,7 @@ Powered by *TREX-MD*`);
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *Bugatti*`);
+Powered by *TREX-MD*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
