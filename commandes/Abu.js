@@ -9,7 +9,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 
-zokou({ nomCom: "bugatti", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "trex", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -38,14 +38,12 @@ const date = moment().format('DD/MM/YYYY');
 *𝐇𝐞𝐲 𝐘𝐨𝐮?* 
 *𝐅𝐨𝐫 𝐮𝐩𝐝𝐚𝐭𝐞𝐬 𝐅𝐨𝐥𝐥𝐨𝐰;*
 *Whatsapp channel*
-> https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
 >https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
 
-*Youtube*
-> https://www.youtube.com/wemacomic
+*Instagram*
+> https://www.intagram.com/_BERA_TECH
 
 *For more info*
-> https://github.com/betingrich
 >https://github.com/berabotsmd
   `;
     
@@ -57,7 +55,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *beratech*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
