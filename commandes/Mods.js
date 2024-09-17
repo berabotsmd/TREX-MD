@@ -17,7 +17,7 @@ const sleep =  (ms) =>{
     const { ms, repondre, arg, nomAuteurMessage, superUser } = commandeOptions;
   
     if (!superUser) {
-      repondre('Only Marisel can use this command'); return;
+      repondre('Only bera can use this command'); return;
     }
     //const apikey = conf.APILOLHUMAIN
   
@@ -47,7 +47,7 @@ const sleep =  (ms) =>{
         type = 'not animated sticker'
       }
   
-      let msg = `   Bugatti-stickers-dl
+      let msg = `   TREX-MD-stickers-dl
       
   *Name :* ${stickers.data.result.name}
   *Type :* ${type} 
@@ -70,7 +70,7 @@ const sleep =  (ms) =>{
   
           const sticker = new Sticker(buffer.data, {
             pack: nomAuteurMessage,
-            author: "Bugatti",
+            author: "TREX-MD",
             type: StickerTypes.FULL,
             categories: ['🤩', '🎉'],
             id: '12345',
@@ -539,7 +539,7 @@ zokou({
 
   if (alldata.length === 0 ) { repondre(`To activate or modify the mention; follow this syntax: mention link type message
   The different types are audio, video, image, and sticker.
-  Example: mention https://static.animecorner.me/2023/08/op2.jpg image Hi, my name is Marisel`) ; return}
+  Example: mention https://static.animecorner.me/2023/08/op2.jpg image Hi, my name is BERA ') ; return}
 
       if(data.status == 'non') {
           etat = 'Desactived'
@@ -560,7 +560,7 @@ Link: ${url}
 
 To activate or modify the mention, follow this syntax: mention link type message
 The different types are audio, video, image, and sticker.
-Example: mention https://telegra.ph/file/ec469447d91f56a74f189.jpg image Hi, my name is Marisel
+Example: mention https://telegra.ph/file/ec469447d91f56a74f189.jpg image Hi, my name is BERA_TECH
 
 To stop the mention, use mention stop`;
 
