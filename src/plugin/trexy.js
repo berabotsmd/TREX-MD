@@ -4656,7 +4656,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
                     display_text: 'Contact Owner',
-                    url: 'https://wa.me/+254740007567?text=HI_Marisel',
+                    url: '.https://wa.me/+254743982206?text=Hi Bera Help Me',
                   }),
                 },
                 {
