@@ -65,7 +65,7 @@ _________________________________________
               text: uptimeMessage
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: "©Cyberion-Spark-X"
+              text: "Trex-Md"
             }),
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({ image: buffer }, { upload: Matrix.waUploadToServer })),
@@ -82,8 +82,8 @@ _________________________________________
               forwardingScore: 999,
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363249960769123@newsletter',
-                newsletterName: "Cyberion-Spark-X",
+                newsletterJid: '120363315115438245@newsletter',
+                newsletterName: "Trex-Md",
                 serverMessageId: 143
               }
             }
