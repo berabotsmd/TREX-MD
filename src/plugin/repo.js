@@ -37,7 +37,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
 *_Forks:_* ${forks_count}
 *_Created At:_* ${new Date(created_at).toLocaleDateString()}
 *_Last Updated:_* ${new Date(updated_at).toLocaleDateString()}
-*_Owner:_* ɪᴍᴀʟᴋᴀ-ʜᴀɴꜱᴀᴍᴀʟ
+*_Owner:_* Bruce Bera
     `;
 
     const repoMessage = generateWAMessageFromContent(m.from, {
@@ -70,8 +70,8 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: 'Contact Owner',
-                    url: 'https://wa.me/+254740007567?text=HI_Marisel',
+                    display_text: 'Chat Bera',
+                    url: 'https://wa.me/+254743982206?text=Hi Bera i Need Help',
                   }),
                 },
                 {
