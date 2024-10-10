@@ -7,18 +7,18 @@ const autoreadCommand = async (m, Matrix) => {
 const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
 const text = m.body.slice(prefix.length + cmd.length).trim();
 
-  if (cmd === 'autoread') {
+  if (cmd === 'autoreact') {
     if (!isCreator) return m.reply("*📛 THIS IS AN OWNER COMMAND*");
     let responseMessage;
 
     if (text === 'on') {
-      config.AUTO_READ = true;
-      responseMessage = "Auto-Read has been enabled.";
+      config.AUTO_REACT = true;
+      responseMessage = "AUTO_REACT has been enabled.";
     } else if (text === 'off') {
-      config.AUTO_READ = false;
-      responseMessage = "Auto-Read has been disabled.";
+      config.AUTO_REACT = false;
+      responseMessage = "AUTO_REACT has been disabled.";
     } else {
-      responseMessage = "Usage:\n- `autoread on`: Enable Auto-Read\n- `autoread off`: Disable Auto-Read";
+      responseMessage = "Usage:\n- `autoreact on`: Enable Auto-React\n- `autoreact off`: Disable Auto-React";
     }
 
     try {

@@ -1,25 +1,18 @@
-import generateProfilePicture from '../generateProfilePicture.js'; 
+import generateProfilePicture from '../generateProfilePicture.js';
 import { writeFile, unlink } from 'fs/promises';
 import config from '../../config.cjs';
 
-const setProfilePictureGroup = async (m, gss) => {
+const setProfilePicture = async (m, gss) => {
+  const botNumber = await gss.decodeJid(gss.user.id);
+  const isCreator = [botNumber, config.OWNER_NUMBER + '@s.whatsapp.net'].includes(m.sender);
   const prefix = config.PREFIX;
 const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
 const text = m.body.slice(prefix.length + cmd.length).trim();
 
-  const validCommands = ['setppfullgroup', 'setfullprofilepicgc', 'fullppgc'];
+  const validCommands = ['setppfull', 'setfullprofilepic', 'fullpp', 'setppbot'];
 
   if (validCommands.includes(cmd)) {
-    
-    if (!m.isGroup) return m.reply("*📛 THIS COMMAND CAN ONLY BE USED IN GROUPS*");
-    const groupMetadata = await gss.groupMetadata(m.from);
-    const participants = groupMetadata.participants;
-    const botNumber = await gss.decodeJid(gss.user.id);
-    const botAdmin = participants.find(p => p.id === botNumber)?.admin;
-    const senderAdmin = participants.find(p => p.id === m.sender)?.admin;
-
-    if (!botAdmin) return m.reply("*📛 BOT MUST BE AN ADMIN TO USE THIS COMMAND*");
-    if (!senderAdmin) return m.reply("*📛 YOU MUST BE AN ADMIN TO USE THIS COMMAND*");
+    if (!isCreator) return m.reply("*📛 THIS IS AN OWNER COMMAND*");
     if (!m.quoted || m.quoted.mtype !== 'imageMessage') {
       return m.reply(`Send/Reply with an image to set your profile picture ${prefix + cmd}`);
     }
@@ -36,7 +29,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
         await gss.query({
           tag: 'iq',
           attrs: {
-            to: m.from,
+            to: botNumber,
             type: 'set',
             xmlns: 'w:profile:picture'
           },
@@ -61,4 +54,4 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
   }
 };
 
-export default setProfilePictureGroup;
+export default setProfilePicture;
