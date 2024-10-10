@@ -95,8 +95,8 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("😃 Mercedes Integration Successful️ ✅"));
-                    Matrix.sendMessage(Matrix.user.id, { text: `😃 Mercedes Integration Successful️ ✅` });
+                    console.log(chalk.green("Trex-Md Integration Successful️"));
+                    Matrix.sendMessage(Matrix.user.id, { text: `Trex-Md Integration Successful️` });
                     initialConnection = false;
                 } else {
                     console.log(chalk.blue("♻️ Connection reestablished after restart."));
