@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (Mercedes)",
+  "name": "Trex-Md",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/marisela2/Mercedes",
+  "repository": "https://github.com/berabotsmd/Trex-Md",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
@@ -25,32 +25,32 @@
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_TYPING": {
       "description": "make it true if you want bot to show typing",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_RECORDING": {
       "description": "make it true if you want bot to show recording audio",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
       "description": "make it true if you want bot to show always online",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_BLOCK": {
       "description": "make it true if you want bot to auto block only 212 numbers",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "REJECT_CALL": {
       "description": "make it true if you want to reject call",
       "required": false,
-      "value": ""
+      "value": "false"
     }
     },
     "buildpacks": [
