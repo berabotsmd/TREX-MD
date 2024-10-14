@@ -106,7 +106,7 @@
 ***
 
 ### THANKS TO:
-- [***Ibrahim-tech***](https://github.com/ibrahimtech) For several Cmds Addition.
+- [***Ibrahim-tech***](https://github.com/ibrahimaitech) For several Cmds Addition.
 - [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Session Generation
 - [***Baraka Bega***](https://github.com/Kingbega) For Code encryption 
 - [***Marsel***](https://github.com/betingrich) For Providing a Base of **TREX-MD**
