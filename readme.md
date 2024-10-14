@@ -7,7 +7,7 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q">
-    <img alt=Support height="390" src="https://telegra.ph/file/346b2fb749a7255defe87.jpg"> 
+    <img alt=Support height="390" src="https://telegra.ph/file/b8b94202ee501c05bfef2.jp"> 
     </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+TREX-MD+MADE+IN+KENYA+🇰🇪" alt="Typing SVG" /></a>
