@@ -7,7 +7,7 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q">
-    <img alt=Support height="390" src="https://telegra.ph/file/b8b94202ee501c05bfef2.jp"> 
+    <img alt=Support height="390" src="https://i.ibb.co/4jBhn13/Socialthumb.jpg"> 
     </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+TREX-MD+MADE+IN+KENYA+🇰🇪" alt="Typing SVG" /></a>
@@ -31,7 +31,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Kingbega/BARAKA-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://GitHub.com/berabotsmd/TREX-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. Get session id by Pairing Code
@@ -82,11 +82,11 @@
 
 1. If You don't have a account in Panel. Create a account.
     <br>
-<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+<a href='https://bot-hosting.net/?aff=1086839354611212288' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+<a href='https://bot-hosting.net/?aff=1086839354611212288' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 
 #### DEPLOY TO HEROKU 
