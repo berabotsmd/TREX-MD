@@ -98,7 +98,7 @@
    <br>
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://gitHub.com/berabotsmd/TREX-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+<a href='https://heroku.com/deploy?template=https://gitHub.com/berabotsmd/TREX-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=Mercedes'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -109,6 +109,6 @@
 - [***Ibrahim-tech***](https://github.com/ibrahimaitech) For several Cmds Addition.
 - [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Session Generation
 - [***Baraka Bega***](https://github.com/Kingbega) For Code encryption 
-- [***Marsel***](https://github.com/betingrich) For Providing a Base of **TREX-MD**
+- [***Marisel***](https://github.com/betingrich) For Providing a Base of **TREX-MD**
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
