@@ -97,8 +97,9 @@
 <a href='https://heroku.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku'/></a>
    <br>
 2. Now Deploy
-    <br>
-<a href='https://heroku.com/deploy?template=https://gitHub.com/berabotsmd/TREX-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=Mercedes'/></a>
+<br>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/berabotsmd/TREX-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
