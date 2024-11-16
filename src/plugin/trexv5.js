@@ -1,5 +1,11 @@
 import config from '../../config.cjs';
+const img = document.createElement("img");
+    img.src = "https://files.catbox.moe/19dogf.jpg"; // Set the image source
+    img.alt = "Example Image"; // Set the alt text
 
+    // Add the image to a container div
+    const container = document.getElementById("imageContainer");
+    container.appendChild(img);
 const ping = async (m, sock) => {
   const prefix = config.PREFIX;
 const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
@@ -15,7 +21,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 │🛹 ʙᴏᴛ ɴᴀᴍᴇ: *TREX-MD*
 │🕹️ ᴠᴇʀꜱɪᴏɴ: 2.0.0
 │🪀 ᴏᴡɴᴇʀ : *BERA TECH*      
-│🧾 ɴᴜᴍʙᴇʀ: 254743982206
+│🧾 ɴᴜᴍʙᴇʀ: 2547439822⁰6
 │🏮 ᴘʟᴀᴛғᴏʀᴍ: *linux*
 │🛡 ᴍᴏᴅᴇ: *public*
 │🧮 ᴘʀᴇғɪx: [.]
@@ -122,13 +128,9 @@ POWERED BY TREX-MD
 ╰❐
 
 ╭───────────────────❒
-│❒⁠⁠⁠⁠ *RAM* : 33.34 GB/61.79 GB
 │❒⁠⁠⁠⁠ *DEV* : *BRUCE BERA*
 │❒⁠⁠⁠⁠ *GITHUB* : *BeraTech*
 ⁠⁠⁠⁠╰───────────────────❒
-  
-❒────────────────────❒
-https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
   
 ❒────────────────────❒
 POWERED BY BERA TECH 
@@ -138,3 +140,4 @@ POWERED BY BERA TECH
 }
 
 export default ping;
+
