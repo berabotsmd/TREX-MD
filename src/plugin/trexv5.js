@@ -1,11 +1,7 @@
 import config from '../../config.cjs';
 const img = document.createElement("img");
-    img.src = "https://files.catbox.moe/19dogf.jpg"; // Set the image source
-    img.alt = "Example Image"; // Set the alt text
-
-    // Add the image to a container div
-    const container = document.getElementById("imageContainer");
-    container.appendChild(img);
+    img.src = "https://files.catbox.moe/19dogf.jpg"; 
+container.appendChild(img);
 const ping = async (m, sock) => {
   const prefix = config.PREFIX;
 const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
