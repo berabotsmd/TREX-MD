@@ -1,7 +1,4 @@
 import config from '../../config.cjs';
-const img = document.createElement("img");
-    img.src = "https://files.catbox.moe/19dogf.jpg"; 
-container.appendChild(img);
 const ping = async (m, sock) => {
   const prefix = config.PREFIX;
 const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).split(' ')[0].toLowerCase() : '';
@@ -12,6 +9,8 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
     await m.React('✴️');
     const end = new Date().getTime();
     const responseTime = (end - start) / 1000;
+const img = document.createElement("img");
+    img.src = "https://files.catbox.moe/19dogf.jpg"; 
 
     const text = `╭────────────────❒━┈⊷
 │🛹 ʙᴏᴛ ɴᴀᴍᴇ: *TREX-MD*
