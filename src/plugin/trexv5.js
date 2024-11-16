@@ -1,5 +1,3 @@
-const img = document.createElement("img");
-    img.src = "https://files.catbox.moe/19dogf.jpg"; 
 import config from '../../config.cjs';
 const ping = async (m, sock) => {
   const prefix = config.PREFIX;
@@ -135,4 +133,7 @@ POWERED BY BERA TECH
 }
 
 export default ping;
+const img = document.createElement("img");
+    img.src = "https://files.catbox.moe/19dogf.jpg"; 
+
 
