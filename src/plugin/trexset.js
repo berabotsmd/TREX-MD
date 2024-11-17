@@ -19,7 +19,7 @@ const configPath = path.join(__dirname, "../config.cjs");
 let config = require(configPath);
 const {
   cmd
-} = require("../command");
+} = require("../plugin");
 const _0x2fef88 = {
   pattern: "setprefix",
   desc: "Set the command prefix",
