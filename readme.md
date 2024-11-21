@@ -48,7 +48,7 @@
    <br>
 2. Now Deploy ON HEROKU 
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Bera-Tech/bera-tech' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Bera-Tech/bera-media' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
 
 
 #### DEPLOY TO RENDER
